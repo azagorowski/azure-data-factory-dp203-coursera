@@ -1,0 +1,9 @@
+{
+	"name": "df-coursera-dp203az",
+	"location": "polandcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ab699ac-a745-4059-9657-0bfb04a634aa",
+		"tenantId": "164e1b0e-c8e5-41a9-9bbb-6f7ed40eef04"
+	}
+}
